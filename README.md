@@ -44,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0067-add-binary) |
 | [1894-merge-strings-alternately](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0070-climbing-stairs) |
 ## Binary Search
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0070-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
