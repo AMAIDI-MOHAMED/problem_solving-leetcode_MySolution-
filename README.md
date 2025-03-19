@@ -50,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
