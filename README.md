@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0217-contains-duplicate) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0217-contains-duplicate) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
 | ------- |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
