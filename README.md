@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
