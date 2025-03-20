@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0268-missing-number) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0268-missing-number) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0342-power-of-four) |
 ## Binary Search
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -90,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
