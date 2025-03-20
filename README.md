@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0070-climbing-stairs) |
+| [0342-power-of-four](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
