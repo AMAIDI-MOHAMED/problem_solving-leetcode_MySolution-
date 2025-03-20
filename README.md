@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0070-climbing-stairs) |
+| [2562-count-ways-to-build-good-strings](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/2562-count-ways-to-build-good-strings) |
 ## Memoization
 |  |
 | ------- |
