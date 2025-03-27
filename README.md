@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0268-missing-number) |
 | [0739-daily-temperatures](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/2308-divide-array-into-equal-pairs) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0345-reverse-vowels-of-a-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0268-missing-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0268-missing-number) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/2308-divide-array-into-equal-pairs) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0792-binary-search) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
