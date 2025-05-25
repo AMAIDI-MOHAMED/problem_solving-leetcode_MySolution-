@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2058-concatenation-of-array](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/2058-concatenation-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/2308-divide-array-into-equal-pairs) |
+| [3194-find-words-containing-character](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/3194-find-words-containing-character) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0345-reverse-vowels-of-a-string) |
 | [1894-merge-strings-alternately](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/1894-merge-strings-alternately) |
+| [3194-find-words-containing-character](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/3194-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
