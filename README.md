@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0342-power-of-four) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/AMAIDI-MOHAMED/problem_solving-leetcode_MySolution-/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/0342-power-of-four) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AMAIDI-MOHAMED/leetcode_MySolution/tree/master/2308-divide-array-into-equal-pairs) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/AMAIDI-MOHAMED/problem_solving-leetcode_MySolution-/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Simulation
 |  |
 | ------- |
