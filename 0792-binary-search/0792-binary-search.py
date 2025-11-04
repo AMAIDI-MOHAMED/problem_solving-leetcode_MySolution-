@@ -8,5 +8,5 @@ class Solution:
             elif(target<=liste[midle]):
                 right=midle-1
             else:
-                left=left+1
+                left=midle+1
         return -1   
